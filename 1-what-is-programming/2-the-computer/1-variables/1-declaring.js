@@ -1,5 +1,7 @@
 'use strict';
 
+debugger;
+
 /* Declaring a Variable
 
   declaring a variable creates a new "box" in program memory,
@@ -15,7 +17,10 @@
 */
 
 let turtle;
+console.log(turtle);
 
 let food;
+console.log(food);
 
 let x;
+console.log(x);

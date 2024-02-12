@@ -1,3 +1,5 @@
+debugger;
+
 /* --- for the computer --- 'use strict';
 
 /* --- for developers --- */
