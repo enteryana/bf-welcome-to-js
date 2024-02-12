@@ -1,5 +1,7 @@
 'use strict';
 
+debugger;
+
 /*
   practice tracing it different ways:
   - use "variables" to check how each variable is used
@@ -16,6 +18,7 @@
 
 // declare onlyDeclared using let
 let onlyDeclared;
+console.log(onlyDeclared);
 
 // when a variable is not initialized
 //  it's value is undefined by default

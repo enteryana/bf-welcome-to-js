@@ -1,5 +1,5 @@
 'use strict';
-
+debugger;
 /*
   practice tracing it different ways:
   - use "variables" to check how each variable is used
@@ -17,6 +17,7 @@
 // declare name using let
 // initialize to "Gödel"
 let name = 'Gödel';
+console.log(name);
 
 /*
   the initialized value is now stored in this variable:
@@ -27,7 +28,7 @@ name;
 
 // assign name: "Hofstadter"
 name = 'Hofstadter';
-
+console.log(name);
 /*
   a variable's value can change during a program
   each time you read it there may be a different value stored
@@ -38,7 +39,7 @@ name;
 
 // assign name: "Schoenberg"
 name = 'Schoenberg';
-
+console.log(name);
 /*
   a variable's final value is the last value assigned to it in the program
 */

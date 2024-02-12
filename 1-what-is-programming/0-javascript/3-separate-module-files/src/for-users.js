@@ -1,3 +1,5 @@
+debugger;
+
 /* --- for the user --- */
 
 // alert hello for the user
