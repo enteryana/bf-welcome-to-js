@@ -1,5 +1,5 @@
 'use strict';
-
+debugger;
 /* Two Variables
 
   Can you predict what the [trace] button will log to the console?
@@ -11,9 +11,9 @@
 
 // trace the program a few times with different values
 
-let x = 'Pieter';
-// let x = 'Blake';
-// let x = 'George';
+//let x = 'Pieter';
+//let x = 'Blake';
+let x = 'George';
 
 let y = 'hello ' + x;
 

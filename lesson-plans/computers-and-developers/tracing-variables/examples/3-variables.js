@@ -1,5 +1,5 @@
 'use strict';
-
+debugger;
 /* Variables
 
   variables allow you to store values for later, kind of like boxes
