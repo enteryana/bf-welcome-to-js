@@ -1,9 +1,9 @@
 'use strict';
-
-let a = '*';
+debugger;
+// let a = '*';
 // let a = '<>';
 // let a = '|-|';
-// let a = '';
+let a = '';
 
 let b = '';
 while (b.length < a.length * 3) {
