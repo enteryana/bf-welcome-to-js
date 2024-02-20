@@ -1,5 +1,5 @@
 'use strict';
-
+debugger;
 let text = null;
 while (text === null) {
   text = prompt('enter some text, each character will be doubled:');

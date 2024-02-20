@@ -1,5 +1,5 @@
 'use strict';
-
+debugger;
 let input = prompt('enter something with 5 characters:');
 
 let message = '';

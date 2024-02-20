@@ -1,9 +1,6 @@
-
-
 'use strict';
-
+debugger;
 console.log('--- in execution phase ---');
-
 
 /*
   environment:
@@ -20,6 +17,5 @@ console.log('--- in execution phase ---');
   the fix(es):
 */
 
-const quotesInQuotes = 'remind yourself ''i can do this!'' at least once a day';
-
-
+const quotesInQuotes = 'remind yourself "i can do this!" at least once a day';
+console.log(quotesInQuotes);

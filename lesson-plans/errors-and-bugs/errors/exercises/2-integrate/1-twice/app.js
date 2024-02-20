@@ -1,3 +1,4 @@
+debugger;
 // these are the only functions you will need
 import {
   whenFormDataChanges,
@@ -29,7 +30,7 @@ whenFormDataChanges('user-data', () => {
 
   // --- repeat the text ---
 
-  let repeated + text + '\n' + text;
+  let repeated = text + '\n' + text;
 
   // --- display the repeated text ---
 

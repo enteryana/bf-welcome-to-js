@@ -1,6 +1,8 @@
 'use strict';
 
-/*  Stepping Through
+debugger;
+
+/*  Stepping Through  
 
   click the [debug] button to start the program in your debugger
 

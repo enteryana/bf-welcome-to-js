@@ -1,5 +1,5 @@
 'use strict';
-
+debugger;
 /* 🥚 Hovering Previews
 
   practice previewing expressions at different steps of execution
