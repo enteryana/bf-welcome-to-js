@@ -1,5 +1,5 @@
 'use strict';
-
+debugger;
 let toReverse = null;
 while (toReverse === null) {
   toReverse = prompt('enter something to reverse:');

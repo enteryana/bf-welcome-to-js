@@ -1,5 +1,5 @@
 'use strict';
-
+debugger;
 /* 🐣 Breakpoints
 
   use the [debug] button to pause this program in the devtools
